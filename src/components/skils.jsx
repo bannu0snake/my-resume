@@ -25,7 +25,7 @@ function Skills(params) {
             </li>
             <ul class="list-group">
               <li class="list-group-item list-group-item-success">Node.js</li>
-              <li class="list-group-item list-group-item-warning">MangoDB</li>
+              <li class="list-group-item list-group-item-warning">MongoDB</li>
               <li class="list-group-item list-group-item-danger">Django</li>
             </ul>
             <button
