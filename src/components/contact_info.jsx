@@ -14,8 +14,8 @@ function ContactInfo(params) {
             Pradesh, India.
           </p>
           <p>
-            Telephone No. : +91 6301418535
-            <br />
+//             Telephone No. : +91 6301418535
+//             <br />
             pincode       : 524004
             <br />
             Org. Email  : mahaboob.s19@iiits.in
